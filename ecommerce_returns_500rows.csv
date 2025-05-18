@@ -1,0 +1,501 @@
+order_id,product_id,category,supplier,price,quantity,region,channel,order_date,return_date,is_returned
+ORD1000,PID2000,Beauty,Supplier B,2975.52,1,North,Offline,2024-03-30,,0
+ORD1001,PID2001,Toys,Supplier D,3752.65,1,East,Online,2024-02-27,,0
+ORD1002,PID2002,Home,Supplier D,2215.13,2,North,Offline,2024-02-23,,0
+ORD1003,PID2003,Toys,Supplier A,725.14,4,East,Online,2024-01-12,,0
+ORD1004,PID2004,Toys,Supplier B,1490.5,3,North,Online,2024-03-21,,0
+ORD1005,PID2005,Clothing,Supplier A,1879.1,3,West,Offline,2024-03-18,,0
+ORD1006,PID2006,Home,Supplier C,3264.99,2,North,Mobile App,2024-01-14,,0
+ORD1007,PID2007,Home,Supplier C,2896.81,4,North,Online,2024-04-30,,0
+ORD1008,PID2008,Home,Supplier A,1844.87,3,North,Online,2024-02-03,,0
+ORD1009,PID2009,Toys,Supplier D,4933.92,1,West,Online,2024-02-22,2024-05-01,1
+ORD1010,PID2010,Beauty,Supplier D,3068.3,3,West,Mobile App,2024-04-30,,0
+ORD1011,PID2011,Home,Supplier A,1262.41,1,West,Mobile App,2024-01-20,,0
+ORD1012,PID2012,Toys,Supplier A,598.73,2,West,Social Media,2024-03-15,,0
+ORD1013,PID2013,Clothing,Supplier C,849.01,1,East,Offline,2024-01-16,2024-05-01,1
+ORD1014,PID2014,Beauty,Supplier D,1305.19,3,East,Mobile App,2024-04-24,,0
+ORD1015,PID2015,Clothing,Supplier A,887.34,3,South,Offline,2024-04-04,,0
+ORD1016,PID2016,Beauty,Supplier C,1014.18,3,West,Social Media,2024-04-28,,0
+ORD1017,PID2017,Toys,Supplier D,1496.97,2,East,Offline,2024-03-10,,0
+ORD1018,PID2018,Electronics,Supplier B,949.53,2,North,Mobile App,2024-02-25,,0
+ORD1019,PID2019,Beauty,Supplier C,4494.15,4,West,Offline,2024-03-23,,0
+ORD1020,PID2020,Clothing,Supplier D,493.15,3,South,Mobile App,2024-04-10,2024-05-01,1
+ORD1021,PID2021,Toys,Supplier D,2670.11,1,South,Offline,2024-02-27,,0
+ORD1022,PID2022,Beauty,Supplier C,2110.94,2,South,Mobile App,2024-01-04,2024-05-01,1
+ORD1023,PID2023,Electronics,Supplier B,4913.66,3,North,Mobile App,2024-04-20,,0
+ORD1024,PID2024,Electronics,Supplier C,648.99,3,East,Offline,2024-01-04,2024-05-01,1
+ORD1025,PID2025,Home,Supplier D,2049.49,2,North,Social Media,2024-01-20,,0
+ORD1026,PID2026,Home,Supplier A,4850.41,4,West,Online,2024-01-10,2024-05-01,1
+ORD1027,PID2027,Clothing,Supplier A,4340.98,2,South,Social Media,2024-01-24,,0
+ORD1028,PID2028,Beauty,Supplier C,4103.65,2,North,Offline,2024-04-27,,0
+ORD1029,PID2029,Beauty,Supplier D,1363.72,1,North,Social Media,2024-04-08,,0
+ORD1030,PID2030,Home,Supplier A,937.35,1,East,Mobile App,2024-01-26,,0
+ORD1031,PID2031,Beauty,Supplier D,3376.35,4,East,Online,2024-02-06,,0
+ORD1032,PID2032,Beauty,Supplier C,4653.94,3,South,Offline,2024-04-11,,0
+ORD1033,PID2033,Electronics,Supplier A,2828.14,2,North,Offline,2024-03-25,,0
+ORD1034,PID2034,Home,Supplier D,2900.9,4,North,Offline,2024-02-23,,0
+ORD1035,PID2035,Toys,Supplier A,1471.9,1,East,Online,2024-04-13,2024-05-01,1
+ORD1036,PID2036,Home,Supplier C,3870.52,2,North,Mobile App,2024-04-12,,0
+ORD1037,PID2037,Toys,Supplier D,1016.51,3,North,Offline,2024-01-21,,0
+ORD1038,PID2038,Electronics,Supplier A,1686.03,1,North,Social Media,2024-03-14,,0
+ORD1039,PID2039,Clothing,Supplier C,2184.64,1,East,Offline,2024-02-07,,0
+ORD1040,PID2040,Beauty,Supplier A,2587.29,1,South,Offline,2024-02-15,2024-05-01,1
+ORD1041,PID2041,Electronics,Supplier A,1287.81,4,West,Offline,2024-01-04,,0
+ORD1042,PID2042,Beauty,Supplier B,662.7,3,South,Offline,2024-02-29,,0
+ORD1043,PID2043,Clothing,Supplier B,3092.04,2,West,Mobile App,2024-02-26,2024-05-01,1
+ORD1044,PID2044,Clothing,Supplier C,1514.29,4,North,Social Media,2024-02-14,2024-05-01,1
+ORD1045,PID2045,Electronics,Supplier B,2948.07,4,South,Mobile App,2024-01-20,,0
+ORD1046,PID2046,Clothing,Supplier C,856.38,4,West,Social Media,2024-01-17,2024-05-01,1
+ORD1047,PID2047,Toys,Supplier B,2457.59,1,East,Offline,2024-04-28,2024-05-01,1
+ORD1048,PID2048,Clothing,Supplier A,2709.69,3,East,Online,2024-03-11,,0
+ORD1049,PID2049,Beauty,Supplier C,353.94,4,South,Mobile App,2024-01-04,,0
+ORD1050,PID2050,Beauty,Supplier C,1749.36,2,South,Online,2024-04-02,,0
+ORD1051,PID2051,Beauty,Supplier A,758.63,3,North,Mobile App,2024-01-14,,0
+ORD1052,PID2052,Beauty,Supplier C,410.54,2,South,Offline,2024-01-03,,0
+ORD1053,PID2053,Toys,Supplier C,4950.81,3,North,Mobile App,2024-03-28,,0
+ORD1054,PID2054,Home,Supplier B,1679.53,2,North,Offline,2024-04-10,,0
+ORD1055,PID2055,Electronics,Supplier C,4068.38,1,East,Mobile App,2024-03-20,,0
+ORD1056,PID2056,Beauty,Supplier D,1347.74,4,East,Offline,2024-02-27,,0
+ORD1057,PID2057,Clothing,Supplier A,3439.36,2,West,Offline,2024-02-24,,0
+ORD1058,PID2058,Beauty,Supplier B,3825.12,3,East,Social Media,2024-04-25,,0
+ORD1059,PID2059,Clothing,Supplier B,3018.63,4,East,Offline,2024-01-04,,0
+ORD1060,PID2060,Clothing,Supplier D,2410.72,4,South,Social Media,2024-04-29,,0
+ORD1061,PID2061,Beauty,Supplier A,2118.02,3,East,Offline,2024-01-24,2024-05-01,1
+ORD1062,PID2062,Toys,Supplier A,1809.45,2,West,Online,2024-02-03,,0
+ORD1063,PID2063,Clothing,Supplier B,4654.69,1,South,Offline,2024-01-30,,0
+ORD1064,PID2064,Clothing,Supplier C,4170.04,1,West,Online,2024-03-22,,0
+ORD1065,PID2065,Beauty,Supplier B,4828.63,2,East,Online,2024-01-19,,0
+ORD1066,PID2066,Clothing,Supplier A,709.06,4,West,Offline,2024-01-31,,0
+ORD1067,PID2067,Clothing,Supplier D,3681.25,4,South,Online,2024-02-29,2024-05-01,1
+ORD1068,PID2068,Beauty,Supplier B,4697.87,4,North,Social Media,2024-02-29,2024-05-01,1
+ORD1069,PID2069,Beauty,Supplier A,988.04,4,West,Mobile App,2024-01-19,,0
+ORD1070,PID2070,Electronics,Supplier B,425.83,2,West,Offline,2024-02-18,,0
+ORD1071,PID2071,Toys,Supplier C,3731.49,4,South,Online,2024-03-03,2024-05-01,1
+ORD1072,PID2072,Toys,Supplier B,2914.92,3,South,Offline,2024-04-19,,0
+ORD1073,PID2073,Clothing,Supplier B,4224.96,4,West,Social Media,2024-03-23,,0
+ORD1074,PID2074,Toys,Supplier A,784.88,1,East,Offline,2024-01-22,2024-05-01,1
+ORD1075,PID2075,Clothing,Supplier A,3996.81,4,West,Offline,2024-01-24,,0
+ORD1076,PID2076,Electronics,Supplier A,1087.97,2,South,Online,2024-04-18,,0
+ORD1077,PID2077,Beauty,Supplier B,901.91,1,North,Social Media,2024-03-16,,0
+ORD1078,PID2078,Beauty,Supplier C,904.9,2,North,Mobile App,2024-01-30,,0
+ORD1079,PID2079,Beauty,Supplier D,4091.42,2,East,Mobile App,2024-02-27,,0
+ORD1080,PID2080,Toys,Supplier D,3359.47,1,West,Online,2024-04-11,,0
+ORD1081,PID2081,Electronics,Supplier A,2663.02,2,North,Offline,2024-04-26,,0
+ORD1082,PID2082,Toys,Supplier A,1858.27,2,West,Online,2024-01-31,,0
+ORD1083,PID2083,Toys,Supplier B,4398.28,4,South,Online,2024-04-09,,0
+ORD1084,PID2084,Electronics,Supplier D,2022.98,3,North,Online,2024-03-04,,0
+ORD1085,PID2085,Electronics,Supplier A,4101.34,2,East,Offline,2024-01-19,,0
+ORD1086,PID2086,Electronics,Supplier C,2251.76,2,South,Social Media,2024-02-17,,0
+ORD1087,PID2087,Electronics,Supplier C,1947.03,2,East,Online,2024-02-14,2024-05-01,1
+ORD1088,PID2088,Beauty,Supplier A,2367.13,4,South,Offline,2024-04-09,,0
+ORD1089,PID2089,Home,Supplier A,1576.75,3,North,Social Media,2024-04-03,2024-05-01,1
+ORD1090,PID2090,Home,Supplier D,3763.29,1,East,Online,2024-02-24,,0
+ORD1091,PID2091,Electronics,Supplier D,2563.33,4,East,Mobile App,2024-04-22,,0
+ORD1092,PID2092,Home,Supplier B,1237.84,4,South,Social Media,2024-02-24,,0
+ORD1093,PID2093,Home,Supplier D,4507.92,3,East,Online,2024-04-06,2024-05-01,1
+ORD1094,PID2094,Electronics,Supplier C,1981.07,3,South,Social Media,2024-01-18,,0
+ORD1095,PID2095,Home,Supplier C,2763.41,4,South,Social Media,2024-03-03,,0
+ORD1096,PID2096,Toys,Supplier A,4541.71,1,South,Social Media,2024-04-25,,0
+ORD1097,PID2097,Clothing,Supplier D,3158.77,4,South,Social Media,2024-04-22,,0
+ORD1098,PID2098,Clothing,Supplier B,672.8,3,North,Social Media,2024-04-01,,0
+ORD1099,PID2099,Electronics,Supplier C,4705.18,1,South,Social Media,2024-02-16,2024-05-01,1
+ORD1100,PID2100,Beauty,Supplier C,3175.77,3,West,Online,2024-03-15,,0
+ORD1101,PID2101,Electronics,Supplier B,1741.04,1,East,Mobile App,2024-02-26,,0
+ORD1102,PID2102,Beauty,Supplier B,782.43,2,West,Offline,2024-04-27,,0
+ORD1103,PID2103,Clothing,Supplier C,3990.72,3,North,Social Media,2024-02-14,,0
+ORD1104,PID2104,Electronics,Supplier C,3138.36,3,West,Offline,2024-02-02,,0
+ORD1105,PID2105,Toys,Supplier B,2713.96,4,East,Online,2024-01-17,,0
+ORD1106,PID2106,Home,Supplier C,4480.07,3,West,Social Media,2024-03-10,,0
+ORD1107,PID2107,Beauty,Supplier A,3964.13,3,North,Mobile App,2024-01-04,2024-05-01,1
+ORD1108,PID2108,Home,Supplier A,843.21,2,South,Offline,2024-01-20,,0
+ORD1109,PID2109,Home,Supplier B,1627.44,3,West,Social Media,2024-04-21,,0
+ORD1110,PID2110,Electronics,Supplier D,1317.6,2,North,Online,2024-02-16,,0
+ORD1111,PID2111,Home,Supplier B,3745.34,2,North,Mobile App,2024-03-31,2024-05-01,1
+ORD1112,PID2112,Toys,Supplier B,264.31,2,East,Offline,2024-01-15,,0
+ORD1113,PID2113,Home,Supplier D,2892.46,2,East,Offline,2024-03-10,,0
+ORD1114,PID2114,Electronics,Supplier D,3836.05,1,West,Social Media,2024-02-16,2024-05-01,1
+ORD1115,PID2115,Toys,Supplier D,4396.15,4,South,Mobile App,2024-03-18,,0
+ORD1116,PID2116,Clothing,Supplier A,1776.2,1,North,Mobile App,2024-03-15,,0
+ORD1117,PID2117,Home,Supplier C,4124.16,3,West,Mobile App,2024-04-12,,0
+ORD1118,PID2118,Electronics,Supplier A,642.1,1,North,Mobile App,2024-01-09,2024-05-01,1
+ORD1119,PID2119,Clothing,Supplier C,4247.62,1,North,Online,2024-03-30,,0
+ORD1120,PID2120,Clothing,Supplier A,724.69,3,South,Mobile App,2024-01-16,,0
+ORD1121,PID2121,Beauty,Supplier C,2046.71,3,South,Offline,2024-03-09,,0
+ORD1122,PID2122,Toys,Supplier A,4006.75,3,West,Offline,2024-04-30,,0
+ORD1123,PID2123,Home,Supplier D,834.6,1,South,Online,2024-04-25,,0
+ORD1124,PID2124,Electronics,Supplier B,1223.33,1,South,Offline,2024-03-01,,0
+ORD1125,PID2125,Beauty,Supplier A,3639.04,3,West,Offline,2024-01-10,,0
+ORD1126,PID2126,Toys,Supplier C,3628.18,4,South,Mobile App,2024-02-19,,0
+ORD1127,PID2127,Beauty,Supplier D,3241.62,4,East,Offline,2024-01-03,,0
+ORD1128,PID2128,Toys,Supplier A,3500.35,2,North,Online,2024-03-17,,0
+ORD1129,PID2129,Toys,Supplier A,2759.35,3,North,Mobile App,2024-04-16,2024-05-01,1
+ORD1130,PID2130,Home,Supplier D,1333.82,2,North,Social Media,2024-04-22,,0
+ORD1131,PID2131,Toys,Supplier A,1793.91,4,North,Mobile App,2024-04-03,2024-05-01,1
+ORD1132,PID2132,Beauty,Supplier B,989.83,2,West,Online,2024-04-27,2024-05-01,1
+ORD1133,PID2133,Toys,Supplier A,4551.41,3,North,Mobile App,2024-04-18,,0
+ORD1134,PID2134,Home,Supplier B,2958.62,3,North,Mobile App,2024-03-10,,0
+ORD1135,PID2135,Home,Supplier B,2064.17,3,North,Online,2024-03-21,,0
+ORD1136,PID2136,Beauty,Supplier D,2363.83,1,North,Mobile App,2024-04-18,,0
+ORD1137,PID2137,Clothing,Supplier A,4741.69,2,East,Online,2024-02-20,,0
+ORD1138,PID2138,Clothing,Supplier D,851.42,4,North,Online,2024-04-26,,0
+ORD1139,PID2139,Toys,Supplier A,2972.53,4,East,Social Media,2024-01-19,,0
+ORD1140,PID2140,Electronics,Supplier A,2578.85,4,West,Offline,2024-02-11,2024-05-01,1
+ORD1141,PID2141,Toys,Supplier C,3096.13,1,South,Offline,2024-02-04,,0
+ORD1142,PID2142,Beauty,Supplier A,188.74,1,North,Mobile App,2024-02-15,2024-05-01,1
+ORD1143,PID2143,Beauty,Supplier D,4373.41,3,South,Mobile App,2024-01-26,,0
+ORD1144,PID2144,Beauty,Supplier B,4667.38,4,South,Social Media,2024-04-24,2024-05-01,1
+ORD1145,PID2145,Beauty,Supplier A,2869.15,1,West,Social Media,2024-03-09,,0
+ORD1146,PID2146,Beauty,Supplier C,3513.59,3,South,Social Media,2024-04-02,,0
+ORD1147,PID2147,Home,Supplier D,4620.25,4,East,Online,2024-03-04,,0
+ORD1148,PID2148,Clothing,Supplier A,3565.47,2,South,Social Media,2024-02-06,,0
+ORD1149,PID2149,Beauty,Supplier D,847.44,3,South,Social Media,2024-03-24,,0
+ORD1150,PID2150,Electronics,Supplier C,2923.81,1,South,Mobile App,2024-02-18,2024-05-01,1
+ORD1151,PID2151,Electronics,Supplier C,3072.9,1,North,Social Media,2024-01-21,,0
+ORD1152,PID2152,Electronics,Supplier D,2178.24,3,North,Online,2024-03-14,,0
+ORD1153,PID2153,Electronics,Supplier A,3708.58,3,East,Online,2024-03-04,,0
+ORD1154,PID2154,Home,Supplier B,4678.4,1,East,Mobile App,2024-01-05,2024-05-01,1
+ORD1155,PID2155,Electronics,Supplier C,4635.29,2,North,Social Media,2024-04-09,,0
+ORD1156,PID2156,Beauty,Supplier A,2309.11,4,East,Social Media,2024-03-10,,0
+ORD1157,PID2157,Toys,Supplier A,654.87,2,North,Online,2024-03-30,,0
+ORD1158,PID2158,Electronics,Supplier B,4925.72,3,West,Social Media,2024-01-04,,0
+ORD1159,PID2159,Home,Supplier C,4210.6,2,South,Social Media,2024-04-12,,0
+ORD1160,PID2160,Home,Supplier C,710.85,1,South,Social Media,2024-02-08,2024-05-01,1
+ORD1161,PID2161,Electronics,Supplier A,4612.13,3,East,Offline,2024-04-23,,0
+ORD1162,PID2162,Toys,Supplier A,4362.49,4,North,Mobile App,2024-02-04,2024-05-01,1
+ORD1163,PID2163,Electronics,Supplier B,2642.31,1,North,Offline,2024-01-01,,0
+ORD1164,PID2164,Home,Supplier B,2997.25,1,East,Mobile App,2024-01-24,,0
+ORD1165,PID2165,Clothing,Supplier C,2055.11,4,North,Online,2024-02-26,2024-05-01,1
+ORD1166,PID2166,Beauty,Supplier D,368.33,4,West,Social Media,2024-04-09,,0
+ORD1167,PID2167,Home,Supplier C,1742.47,2,South,Mobile App,2024-03-10,2024-05-01,1
+ORD1168,PID2168,Electronics,Supplier A,4033.98,3,East,Offline,2024-02-10,,0
+ORD1169,PID2169,Beauty,Supplier C,122.7,4,East,Social Media,2024-02-23,,0
+ORD1170,PID2170,Electronics,Supplier D,1734.15,4,North,Online,2024-02-15,2024-05-01,1
+ORD1171,PID2171,Electronics,Supplier B,2051.03,3,East,Mobile App,2024-02-29,,0
+ORD1172,PID2172,Clothing,Supplier D,2733.24,4,West,Mobile App,2024-04-17,,0
+ORD1173,PID2173,Beauty,Supplier D,4607.29,4,North,Mobile App,2024-02-29,,0
+ORD1174,PID2174,Beauty,Supplier D,1797.1,2,North,Social Media,2024-02-26,,0
+ORD1175,PID2175,Clothing,Supplier B,1800.07,1,North,Offline,2024-01-31,2024-05-01,1
+ORD1176,PID2176,Home,Supplier D,3713.76,1,North,Offline,2024-03-24,,0
+ORD1177,PID2177,Electronics,Supplier D,2315.87,1,West,Mobile App,2024-01-24,,0
+ORD1178,PID2178,Toys,Supplier D,1200.56,1,North,Online,2024-03-29,,0
+ORD1179,PID2179,Electronics,Supplier A,2316.95,4,East,Online,2024-02-05,,0
+ORD1180,PID2180,Electronics,Supplier D,790.2,3,West,Offline,2024-03-25,,0
+ORD1181,PID2181,Home,Supplier B,964.3,3,South,Online,2024-01-30,,0
+ORD1182,PID2182,Electronics,Supplier D,2542.0,2,South,Offline,2024-01-24,2024-05-01,1
+ORD1183,PID2183,Clothing,Supplier D,2152.73,2,East,Mobile App,2024-04-17,,0
+ORD1184,PID2184,Clothing,Supplier B,4582.74,4,East,Offline,2024-04-15,,0
+ORD1185,PID2185,Beauty,Supplier D,1875.73,3,West,Offline,2024-01-30,,0
+ORD1186,PID2186,Toys,Supplier B,2944.88,3,South,Mobile App,2024-03-26,,0
+ORD1187,PID2187,Electronics,Supplier D,3198.1,1,South,Online,2024-04-01,,0
+ORD1188,PID2188,Electronics,Supplier B,164.16,4,South,Offline,2024-01-07,,0
+ORD1189,PID2189,Home,Supplier D,3351.33,4,South,Offline,2024-02-04,,0
+ORD1190,PID2190,Clothing,Supplier D,972.38,1,South,Mobile App,2024-02-24,,0
+ORD1191,PID2191,Toys,Supplier A,4809.24,4,North,Online,2024-04-01,,0
+ORD1192,PID2192,Beauty,Supplier A,828.45,4,East,Offline,2024-01-14,2024-05-01,1
+ORD1193,PID2193,Clothing,Supplier D,2131.66,2,North,Mobile App,2024-04-29,2024-05-01,1
+ORD1194,PID2194,Beauty,Supplier D,518.21,3,South,Offline,2024-01-10,2024-05-01,1
+ORD1195,PID2195,Home,Supplier C,4984.68,4,West,Social Media,2024-03-20,,0
+ORD1196,PID2196,Home,Supplier B,2560.76,2,West,Mobile App,2024-01-16,,0
+ORD1197,PID2197,Electronics,Supplier C,3017.39,3,South,Online,2024-02-23,,0
+ORD1198,PID2198,Toys,Supplier A,428.67,1,South,Online,2024-04-04,,0
+ORD1199,PID2199,Beauty,Supplier A,3774.81,2,West,Online,2024-04-15,,0
+ORD1200,PID2200,Clothing,Supplier A,1128.54,2,North,Online,2024-03-29,2024-05-01,1
+ORD1201,PID2201,Home,Supplier A,4500.47,3,North,Offline,2024-03-17,2024-05-01,1
+ORD1202,PID2202,Electronics,Supplier D,1105.18,1,South,Offline,2024-03-10,,0
+ORD1203,PID2203,Electronics,Supplier A,1034.37,2,North,Online,2024-02-13,,0
+ORD1204,PID2204,Beauty,Supplier D,279.09,4,West,Online,2024-03-13,2024-05-01,1
+ORD1205,PID2205,Home,Supplier D,2413.13,4,North,Online,2024-02-14,,0
+ORD1206,PID2206,Toys,Supplier A,2867.72,4,South,Offline,2024-04-09,,0
+ORD1207,PID2207,Home,Supplier A,421.97,1,West,Online,2024-02-25,2024-05-01,1
+ORD1208,PID2208,Beauty,Supplier B,3900.09,2,North,Online,2024-04-16,,0
+ORD1209,PID2209,Beauty,Supplier C,2321.12,4,East,Social Media,2024-03-24,,0
+ORD1210,PID2210,Home,Supplier A,2669.51,1,West,Social Media,2024-03-22,,0
+ORD1211,PID2211,Beauty,Supplier B,2259.74,4,West,Online,2024-04-16,2024-05-01,1
+ORD1212,PID2212,Home,Supplier B,2063.74,3,East,Mobile App,2024-02-26,,0
+ORD1213,PID2213,Clothing,Supplier C,2842.24,2,East,Online,2024-01-21,,0
+ORD1214,PID2214,Home,Supplier D,860.68,2,West,Social Media,2024-03-08,,0
+ORD1215,PID2215,Home,Supplier A,991.45,1,East,Mobile App,2024-02-19,,0
+ORD1216,PID2216,Beauty,Supplier C,4322.75,1,South,Mobile App,2024-02-02,,0
+ORD1217,PID2217,Beauty,Supplier A,4735.97,2,South,Online,2024-03-31,,0
+ORD1218,PID2218,Electronics,Supplier B,1929.22,4,South,Social Media,2024-01-07,,0
+ORD1219,PID2219,Electronics,Supplier B,1426.65,4,West,Social Media,2024-03-10,2024-05-01,1
+ORD1220,PID2220,Clothing,Supplier D,3255.6,3,East,Mobile App,2024-01-15,,0
+ORD1221,PID2221,Electronics,Supplier B,2102.8,4,East,Online,2024-03-22,,0
+ORD1222,PID2222,Home,Supplier B,224.39,1,North,Offline,2024-02-01,,0
+ORD1223,PID2223,Beauty,Supplier C,865.15,1,North,Offline,2024-04-29,,0
+ORD1224,PID2224,Electronics,Supplier A,3608.26,4,East,Social Media,2024-03-15,,0
+ORD1225,PID2225,Electronics,Supplier A,3328.73,1,East,Offline,2024-01-20,,0
+ORD1226,PID2226,Clothing,Supplier C,232.77,2,East,Social Media,2024-03-28,,0
+ORD1227,PID2227,Clothing,Supplier D,1187.66,2,West,Social Media,2024-01-15,,0
+ORD1228,PID2228,Home,Supplier A,1232.27,4,East,Social Media,2024-02-17,,0
+ORD1229,PID2229,Beauty,Supplier B,3392.27,2,North,Offline,2024-03-11,,0
+ORD1230,PID2230,Clothing,Supplier A,196.58,2,West,Social Media,2024-01-21,2024-05-01,1
+ORD1231,PID2231,Electronics,Supplier B,610.13,3,East,Mobile App,2024-02-11,,0
+ORD1232,PID2232,Beauty,Supplier D,4019.59,3,North,Online,2024-01-26,,0
+ORD1233,PID2233,Beauty,Supplier C,974.87,2,West,Online,2024-04-17,,0
+ORD1234,PID2234,Electronics,Supplier A,3298.46,4,East,Social Media,2024-04-29,,0
+ORD1235,PID2235,Clothing,Supplier C,1267.1,3,East,Online,2024-01-14,,0
+ORD1236,PID2236,Electronics,Supplier A,587.26,1,East,Offline,2024-02-26,,0
+ORD1237,PID2237,Beauty,Supplier B,1291.54,1,West,Offline,2024-02-06,,0
+ORD1238,PID2238,Toys,Supplier C,3639.11,1,North,Online,2024-02-27,,0
+ORD1239,PID2239,Toys,Supplier A,4292.91,4,North,Offline,2024-01-21,2024-05-01,1
+ORD1240,PID2240,Home,Supplier B,4168.08,2,South,Online,2024-03-22,,0
+ORD1241,PID2241,Electronics,Supplier C,2046.2,1,East,Online,2024-03-09,2024-05-01,1
+ORD1242,PID2242,Electronics,Supplier C,3373.62,4,South,Online,2024-01-03,,0
+ORD1243,PID2243,Home,Supplier A,1104.42,3,South,Social Media,2024-03-27,,0
+ORD1244,PID2244,Home,Supplier A,1536.42,2,North,Online,2024-03-30,,0
+ORD1245,PID2245,Home,Supplier A,4492.05,3,West,Social Media,2024-02-06,,0
+ORD1246,PID2246,Beauty,Supplier B,163.71,4,West,Online,2024-03-28,2024-05-01,1
+ORD1247,PID2247,Electronics,Supplier A,518.99,1,North,Online,2024-02-18,,0
+ORD1248,PID2248,Beauty,Supplier C,1118.64,1,West,Online,2024-01-19,2024-05-01,1
+ORD1249,PID2249,Home,Supplier C,230.01,4,South,Offline,2024-04-24,,0
+ORD1250,PID2250,Electronics,Supplier A,989.03,1,East,Social Media,2024-03-29,,0
+ORD1251,PID2251,Beauty,Supplier A,2956.9,2,North,Social Media,2024-03-25,,0
+ORD1252,PID2252,Beauty,Supplier D,2164.98,4,East,Online,2024-01-12,,0
+ORD1253,PID2253,Home,Supplier C,4474.09,3,West,Online,2024-04-30,2024-05-01,1
+ORD1254,PID2254,Electronics,Supplier B,4105.47,4,East,Offline,2024-03-01,,0
+ORD1255,PID2255,Home,Supplier D,1774.91,2,West,Offline,2024-02-10,,0
+ORD1256,PID2256,Electronics,Supplier A,1371.17,2,West,Offline,2024-02-02,,0
+ORD1257,PID2257,Toys,Supplier A,1960.49,4,South,Social Media,2024-02-19,,0
+ORD1258,PID2258,Clothing,Supplier C,2992.45,4,West,Social Media,2024-04-26,,0
+ORD1259,PID2259,Clothing,Supplier A,1413.51,1,South,Social Media,2024-03-08,,0
+ORD1260,PID2260,Clothing,Supplier B,3158.33,2,South,Online,2024-04-15,2024-05-01,1
+ORD1261,PID2261,Home,Supplier C,2106.12,4,South,Social Media,2024-04-30,,0
+ORD1262,PID2262,Toys,Supplier A,2805.03,4,North,Mobile App,2024-03-11,,0
+ORD1263,PID2263,Electronics,Supplier C,2237.02,2,North,Mobile App,2024-03-26,,0
+ORD1264,PID2264,Beauty,Supplier A,1542.88,4,West,Offline,2024-04-28,,0
+ORD1265,PID2265,Electronics,Supplier A,4747.42,1,South,Social Media,2024-02-02,2024-05-01,1
+ORD1266,PID2266,Beauty,Supplier A,3841.67,2,North,Mobile App,2024-03-21,,0
+ORD1267,PID2267,Electronics,Supplier B,786.55,1,South,Offline,2024-01-24,,0
+ORD1268,PID2268,Toys,Supplier B,4355.49,1,East,Social Media,2024-03-01,,0
+ORD1269,PID2269,Beauty,Supplier C,2488.41,1,East,Online,2024-03-01,,0
+ORD1270,PID2270,Home,Supplier A,4483.31,1,East,Mobile App,2024-04-07,,0
+ORD1271,PID2271,Electronics,Supplier A,4019.29,2,West,Online,2024-01-28,2024-05-01,1
+ORD1272,PID2272,Electronics,Supplier B,2183.55,1,South,Social Media,2024-02-27,,0
+ORD1273,PID2273,Beauty,Supplier A,210.1,1,East,Mobile App,2024-02-12,2024-05-01,1
+ORD1274,PID2274,Home,Supplier B,1416.52,4,North,Social Media,2024-02-10,,0
+ORD1275,PID2275,Home,Supplier A,2754.01,2,East,Online,2024-02-08,,0
+ORD1276,PID2276,Toys,Supplier C,3204.04,2,East,Mobile App,2024-03-26,,0
+ORD1277,PID2277,Home,Supplier A,1363.65,3,East,Online,2024-02-18,,0
+ORD1278,PID2278,Home,Supplier A,782.84,2,West,Social Media,2024-01-17,2024-05-01,1
+ORD1279,PID2279,Home,Supplier D,4191.16,2,North,Social Media,2024-04-07,,0
+ORD1280,PID2280,Clothing,Supplier B,4923.57,3,South,Online,2024-03-10,2024-05-01,1
+ORD1281,PID2281,Toys,Supplier A,2675.88,2,North,Mobile App,2024-04-19,,0
+ORD1282,PID2282,Electronics,Supplier A,941.23,2,South,Online,2024-03-10,,0
+ORD1283,PID2283,Beauty,Supplier D,1434.31,2,West,Social Media,2024-04-07,,0
+ORD1284,PID2284,Electronics,Supplier D,190.11,2,West,Online,2024-03-05,,0
+ORD1285,PID2285,Toys,Supplier B,4580.06,3,West,Social Media,2024-03-14,,0
+ORD1286,PID2286,Beauty,Supplier D,676.98,2,West,Online,2024-03-25,2024-05-01,1
+ORD1287,PID2287,Toys,Supplier C,2924.93,2,South,Mobile App,2024-01-05,,0
+ORD1288,PID2288,Home,Supplier D,1442.87,3,East,Mobile App,2024-01-02,,0
+ORD1289,PID2289,Beauty,Supplier C,2815.47,4,South,Online,2024-01-22,,0
+ORD1290,PID2290,Home,Supplier B,3291.96,1,North,Online,2024-04-21,2024-05-01,1
+ORD1291,PID2291,Electronics,Supplier B,4165.73,4,West,Mobile App,2024-02-26,,0
+ORD1292,PID2292,Electronics,Supplier B,1111.46,3,West,Social Media,2024-03-06,2024-05-01,1
+ORD1293,PID2293,Beauty,Supplier B,153.88,1,North,Mobile App,2024-03-14,,0
+ORD1294,PID2294,Beauty,Supplier B,770.74,3,South,Social Media,2024-04-07,,0
+ORD1295,PID2295,Toys,Supplier C,4510.09,3,East,Online,2024-01-16,,0
+ORD1296,PID2296,Toys,Supplier C,4382.06,2,East,Online,2024-04-21,,0
+ORD1297,PID2297,Home,Supplier B,3027.32,1,North,Social Media,2024-02-20,,0
+ORD1298,PID2298,Beauty,Supplier D,3042.53,2,East,Online,2024-02-08,,0
+ORD1299,PID2299,Electronics,Supplier A,3358.68,1,South,Social Media,2024-03-26,,0
+ORD1300,PID2300,Toys,Supplier B,959.32,3,South,Offline,2024-03-16,,0
+ORD1301,PID2301,Toys,Supplier D,4580.62,3,North,Mobile App,2024-03-28,,0
+ORD1302,PID2302,Electronics,Supplier A,2151.98,4,South,Offline,2024-04-20,2024-05-01,1
+ORD1303,PID2303,Toys,Supplier B,1977.38,1,West,Social Media,2024-02-09,,0
+ORD1304,PID2304,Home,Supplier B,2642.7,2,North,Mobile App,2024-02-07,2024-05-01,1
+ORD1305,PID2305,Beauty,Supplier C,330.13,4,South,Social Media,2024-02-29,,0
+ORD1306,PID2306,Electronics,Supplier A,914.79,4,North,Mobile App,2024-02-28,,0
+ORD1307,PID2307,Beauty,Supplier A,3716.36,4,East,Mobile App,2024-01-10,,0
+ORD1308,PID2308,Toys,Supplier D,505.71,2,South,Mobile App,2024-04-08,,0
+ORD1309,PID2309,Toys,Supplier C,3055.45,4,West,Mobile App,2024-03-04,,0
+ORD1310,PID2310,Electronics,Supplier C,1302.21,2,South,Social Media,2024-04-24,,0
+ORD1311,PID2311,Home,Supplier C,2007.55,4,North,Mobile App,2024-03-03,,0
+ORD1312,PID2312,Clothing,Supplier C,1514.6,2,North,Mobile App,2024-02-18,,0
+ORD1313,PID2313,Electronics,Supplier A,1842.8,3,South,Offline,2024-03-04,,0
+ORD1314,PID2314,Clothing,Supplier A,3623.32,3,West,Online,2024-02-01,,0
+ORD1315,PID2315,Clothing,Supplier B,1555.9,3,West,Online,2024-01-07,,0
+ORD1316,PID2316,Home,Supplier B,2875.38,3,West,Offline,2024-01-21,,0
+ORD1317,PID2317,Clothing,Supplier C,2432.65,3,North,Offline,2024-01-20,2024-05-01,1
+ORD1318,PID2318,Clothing,Supplier C,3351.99,4,South,Social Media,2024-01-26,2024-05-01,1
+ORD1319,PID2319,Home,Supplier C,4690.47,4,East,Social Media,2024-03-08,,0
+ORD1320,PID2320,Clothing,Supplier B,3689.6,4,North,Social Media,2024-04-19,,0
+ORD1321,PID2321,Clothing,Supplier D,1153.21,2,West,Offline,2024-04-25,,0
+ORD1322,PID2322,Clothing,Supplier D,252.8,2,South,Offline,2024-03-26,,0
+ORD1323,PID2323,Electronics,Supplier B,1385.09,2,West,Mobile App,2024-01-15,,0
+ORD1324,PID2324,Electronics,Supplier B,3015.88,2,East,Social Media,2024-04-29,,0
+ORD1325,PID2325,Electronics,Supplier B,351.99,3,West,Social Media,2024-04-13,,0
+ORD1326,PID2326,Home,Supplier B,2532.19,3,West,Social Media,2024-03-25,,0
+ORD1327,PID2327,Toys,Supplier B,3024.53,3,East,Online,2024-03-19,,0
+ORD1328,PID2328,Clothing,Supplier B,1737.8,1,South,Mobile App,2024-03-26,,0
+ORD1329,PID2329,Clothing,Supplier C,3877.47,4,North,Social Media,2024-04-25,2024-05-01,1
+ORD1330,PID2330,Home,Supplier C,622.33,2,South,Social Media,2024-04-01,,0
+ORD1331,PID2331,Clothing,Supplier C,468.18,2,East,Social Media,2024-01-14,,0
+ORD1332,PID2332,Electronics,Supplier C,3668.12,3,West,Online,2024-01-27,2024-05-01,1
+ORD1333,PID2333,Toys,Supplier B,2527.91,2,South,Online,2024-04-14,,0
+ORD1334,PID2334,Beauty,Supplier D,3473.17,2,North,Offline,2024-02-09,,0
+ORD1335,PID2335,Clothing,Supplier A,2230.65,4,East,Mobile App,2024-02-27,,0
+ORD1336,PID2336,Electronics,Supplier B,1307.37,3,South,Offline,2024-01-28,,0
+ORD1337,PID2337,Beauty,Supplier A,4113.6,4,North,Mobile App,2024-01-26,2024-05-01,1
+ORD1338,PID2338,Toys,Supplier D,4017.14,1,East,Online,2024-04-22,,0
+ORD1339,PID2339,Beauty,Supplier C,3504.01,1,North,Social Media,2024-03-03,2024-05-01,1
+ORD1340,PID2340,Electronics,Supplier D,1433.51,1,East,Offline,2024-03-06,,0
+ORD1341,PID2341,Beauty,Supplier B,2992.13,3,West,Social Media,2024-01-25,,0
+ORD1342,PID2342,Home,Supplier C,1868.77,2,South,Offline,2024-04-29,,0
+ORD1343,PID2343,Beauty,Supplier B,548.75,3,North,Online,2024-01-03,,0
+ORD1344,PID2344,Clothing,Supplier C,4594.84,3,East,Online,2024-03-12,,0
+ORD1345,PID2345,Clothing,Supplier A,770.41,2,North,Online,2024-02-13,,0
+ORD1346,PID2346,Home,Supplier A,4756.16,4,North,Offline,2024-04-06,,0
+ORD1347,PID2347,Electronics,Supplier A,2285.43,1,South,Mobile App,2024-02-11,,0
+ORD1348,PID2348,Clothing,Supplier D,1007.15,4,West,Offline,2024-04-25,2024-05-01,1
+ORD1349,PID2349,Toys,Supplier B,2755.31,1,North,Mobile App,2024-04-08,,0
+ORD1350,PID2350,Clothing,Supplier D,4377.43,3,East,Offline,2024-01-06,,0
+ORD1351,PID2351,Clothing,Supplier A,3687.9,1,East,Offline,2024-02-08,,0
+ORD1352,PID2352,Electronics,Supplier B,4052.15,3,West,Online,2024-02-21,2024-05-01,1
+ORD1353,PID2353,Beauty,Supplier A,3328.04,4,East,Social Media,2024-01-23,,0
+ORD1354,PID2354,Clothing,Supplier D,3492.16,3,West,Social Media,2024-03-29,2024-05-01,1
+ORD1355,PID2355,Home,Supplier D,4261.06,4,East,Mobile App,2024-02-19,,0
+ORD1356,PID2356,Beauty,Supplier D,1323.37,2,South,Social Media,2024-02-12,,0
+ORD1357,PID2357,Toys,Supplier A,2498.18,2,North,Offline,2024-01-19,,0
+ORD1358,PID2358,Electronics,Supplier B,1183.93,2,South,Offline,2024-03-09,2024-05-01,1
+ORD1359,PID2359,Toys,Supplier B,4939.57,3,North,Online,2024-02-20,,0
+ORD1360,PID2360,Beauty,Supplier A,4725.89,2,North,Online,2024-01-11,,0
+ORD1361,PID2361,Beauty,Supplier B,293.19,1,North,Social Media,2024-04-29,,0
+ORD1362,PID2362,Beauty,Supplier A,3557.32,4,South,Mobile App,2024-01-12,,0
+ORD1363,PID2363,Toys,Supplier B,4633.72,4,North,Social Media,2024-03-14,2024-05-01,1
+ORD1364,PID2364,Beauty,Supplier C,984.82,1,South,Social Media,2024-01-08,,0
+ORD1365,PID2365,Toys,Supplier C,2882.93,3,West,Social Media,2024-01-24,2024-05-01,1
+ORD1366,PID2366,Beauty,Supplier D,4585.89,3,East,Social Media,2024-04-01,,0
+ORD1367,PID2367,Home,Supplier C,266.34,4,East,Offline,2024-02-10,,0
+ORD1368,PID2368,Beauty,Supplier C,3517.36,2,North,Mobile App,2024-02-05,,0
+ORD1369,PID2369,Toys,Supplier C,1557.01,3,South,Offline,2024-04-10,,0
+ORD1370,PID2370,Clothing,Supplier A,4629.54,3,East,Mobile App,2024-03-25,,0
+ORD1371,PID2371,Beauty,Supplier C,4858.19,1,South,Online,2024-03-12,,0
+ORD1372,PID2372,Clothing,Supplier C,4726.91,1,South,Social Media,2024-02-24,,0
+ORD1373,PID2373,Home,Supplier D,2423.65,2,North,Offline,2024-01-09,2024-05-01,1
+ORD1374,PID2374,Electronics,Supplier C,4324.01,3,East,Mobile App,2024-02-16,2024-05-01,1
+ORD1375,PID2375,Home,Supplier C,4238.29,3,North,Online,2024-01-15,2024-05-01,1
+ORD1376,PID2376,Beauty,Supplier B,1663.59,1,North,Online,2024-02-17,2024-05-01,1
+ORD1377,PID2377,Clothing,Supplier D,4161.69,3,East,Social Media,2024-04-19,,0
+ORD1378,PID2378,Clothing,Supplier D,281.34,4,East,Mobile App,2024-04-13,,0
+ORD1379,PID2379,Toys,Supplier D,3021.72,1,West,Offline,2024-03-22,,0
+ORD1380,PID2380,Clothing,Supplier D,1227.04,2,West,Social Media,2024-02-11,,0
+ORD1381,PID2381,Toys,Supplier D,690.78,1,South,Offline,2024-02-29,,0
+ORD1382,PID2382,Electronics,Supplier D,477.07,3,East,Online,2024-03-24,,0
+ORD1383,PID2383,Beauty,Supplier A,3511.82,2,West,Offline,2024-03-10,,0
+ORD1384,PID2384,Toys,Supplier C,1765.39,1,South,Offline,2024-01-12,,0
+ORD1385,PID2385,Electronics,Supplier D,3651.36,4,South,Social Media,2024-01-02,,0
+ORD1386,PID2386,Clothing,Supplier C,420.25,4,South,Offline,2024-01-07,,0
+ORD1387,PID2387,Clothing,Supplier C,1644.92,1,West,Social Media,2024-03-20,,0
+ORD1388,PID2388,Electronics,Supplier A,2743.51,4,East,Online,2024-01-03,,0
+ORD1389,PID2389,Clothing,Supplier D,3974.54,4,North,Social Media,2024-04-18,,0
+ORD1390,PID2390,Electronics,Supplier B,1661.89,4,South,Social Media,2024-01-03,,0
+ORD1391,PID2391,Toys,Supplier A,3166.87,2,West,Mobile App,2024-01-27,2024-05-01,1
+ORD1392,PID2392,Toys,Supplier B,4441.29,4,West,Offline,2024-04-23,,0
+ORD1393,PID2393,Electronics,Supplier C,3117.73,4,North,Online,2024-04-16,,0
+ORD1394,PID2394,Toys,Supplier C,1241.5,4,North,Social Media,2024-02-09,2024-05-01,1
+ORD1395,PID2395,Toys,Supplier A,219.56,2,West,Online,2024-04-11,,0
+ORD1396,PID2396,Toys,Supplier A,4363.48,1,East,Mobile App,2024-02-02,,0
+ORD1397,PID2397,Home,Supplier B,204.22,3,North,Offline,2024-04-01,,0
+ORD1398,PID2398,Beauty,Supplier D,4386.04,4,West,Social Media,2024-01-01,,0
+ORD1399,PID2399,Clothing,Supplier B,2691.79,1,North,Offline,2024-04-28,,0
+ORD1400,PID2400,Home,Supplier A,4701.43,4,East,Mobile App,2024-01-08,,0
+ORD1401,PID2401,Toys,Supplier B,4014.04,2,South,Mobile App,2024-04-10,2024-05-01,1
+ORD1402,PID2402,Electronics,Supplier A,4989.88,1,North,Online,2024-02-01,,0
+ORD1403,PID2403,Toys,Supplier B,1818.49,2,East,Social Media,2024-02-17,,0
+ORD1404,PID2404,Beauty,Supplier A,3859.22,4,West,Online,2024-04-16,,0
+ORD1405,PID2405,Toys,Supplier A,2069.46,4,North,Mobile App,2024-04-10,,0
+ORD1406,PID2406,Electronics,Supplier A,2451.39,2,North,Offline,2024-01-04,,0
+ORD1407,PID2407,Beauty,Supplier D,3174.78,3,West,Online,2024-04-03,,0
+ORD1408,PID2408,Toys,Supplier B,4381.02,2,South,Online,2024-03-10,2024-05-01,1
+ORD1409,PID2409,Beauty,Supplier B,4922.01,4,West,Offline,2024-04-19,,0
+ORD1410,PID2410,Clothing,Supplier B,3864.54,2,North,Online,2024-04-27,,0
+ORD1411,PID2411,Clothing,Supplier A,2147.06,3,West,Offline,2024-01-19,,0
+ORD1412,PID2412,Toys,Supplier B,2164.65,2,East,Social Media,2024-02-01,,0
+ORD1413,PID2413,Beauty,Supplier B,3714.15,3,West,Offline,2024-01-09,,0
+ORD1414,PID2414,Electronics,Supplier A,1270.01,3,North,Social Media,2024-01-12,,0
+ORD1415,PID2415,Toys,Supplier C,641.32,2,West,Offline,2024-01-11,,0
+ORD1416,PID2416,Clothing,Supplier A,1837.65,2,South,Mobile App,2024-02-15,,0
+ORD1417,PID2417,Clothing,Supplier B,1507.47,1,West,Mobile App,2024-04-28,2024-05-01,1
+ORD1418,PID2418,Toys,Supplier A,1551.91,4,South,Social Media,2024-01-16,,0
+ORD1419,PID2419,Beauty,Supplier C,1244.68,3,East,Social Media,2024-01-01,2024-05-01,1
+ORD1420,PID2420,Clothing,Supplier A,306.26,1,South,Mobile App,2024-03-03,,0
+ORD1421,PID2421,Beauty,Supplier B,187.58,2,West,Social Media,2024-04-18,,0
+ORD1422,PID2422,Clothing,Supplier C,4939.84,4,North,Offline,2024-04-28,,0
+ORD1423,PID2423,Clothing,Supplier D,2196.09,1,South,Offline,2024-04-26,,0
+ORD1424,PID2424,Home,Supplier B,1983.2,3,East,Mobile App,2024-01-21,,0
+ORD1425,PID2425,Clothing,Supplier C,3430.27,1,South,Online,2024-01-30,,0
+ORD1426,PID2426,Electronics,Supplier C,1169.44,3,South,Offline,2024-01-13,,0
+ORD1427,PID2427,Toys,Supplier D,4754.81,2,South,Social Media,2024-02-03,,0
+ORD1428,PID2428,Toys,Supplier A,3953.09,4,East,Online,2024-01-04,,0
+ORD1429,PID2429,Beauty,Supplier A,538.11,4,West,Online,2024-01-28,2024-05-01,1
+ORD1430,PID2430,Clothing,Supplier B,2146.15,4,South,Offline,2024-04-11,,0
+ORD1431,PID2431,Electronics,Supplier D,4407.68,2,South,Offline,2024-04-04,,0
+ORD1432,PID2432,Beauty,Supplier A,4729.19,3,North,Online,2024-02-28,,0
+ORD1433,PID2433,Home,Supplier D,2390.27,2,East,Online,2024-04-28,2024-05-01,1
+ORD1434,PID2434,Beauty,Supplier A,3105.72,4,South,Mobile App,2024-01-27,2024-05-01,1
+ORD1435,PID2435,Beauty,Supplier C,918.47,2,East,Social Media,2024-03-09,,0
+ORD1436,PID2436,Clothing,Supplier A,4956.73,2,South,Mobile App,2024-01-25,,0
+ORD1437,PID2437,Home,Supplier D,1235.19,2,West,Offline,2024-01-03,,0
+ORD1438,PID2438,Beauty,Supplier C,4719.39,3,West,Mobile App,2024-04-06,,0
+ORD1439,PID2439,Electronics,Supplier C,3283.27,1,South,Mobile App,2024-03-08,,0
+ORD1440,PID2440,Electronics,Supplier C,3077.91,1,West,Mobile App,2024-01-25,,0
+ORD1441,PID2441,Toys,Supplier D,2612.17,2,South,Mobile App,2024-01-20,,0
+ORD1442,PID2442,Home,Supplier B,1230.28,1,West,Social Media,2024-02-03,,0
+ORD1443,PID2443,Home,Supplier B,964.99,1,North,Social Media,2024-01-26,2024-05-01,1
+ORD1444,PID2444,Toys,Supplier B,1180.38,2,North,Online,2024-01-05,,0
+ORD1445,PID2445,Beauty,Supplier D,1013.55,2,North,Offline,2024-04-08,,0
+ORD1446,PID2446,Home,Supplier C,3919.96,4,East,Mobile App,2024-03-01,,0
+ORD1447,PID2447,Electronics,Supplier B,1815.61,1,East,Online,2024-04-01,2024-05-01,1
+ORD1448,PID2448,Electronics,Supplier D,383.43,3,North,Online,2024-04-02,,0
+ORD1449,PID2449,Clothing,Supplier B,4848.6,2,East,Online,2024-01-09,2024-05-01,1
+ORD1450,PID2450,Home,Supplier A,4430.55,4,West,Social Media,2024-04-25,2024-05-01,1
+ORD1451,PID2451,Beauty,Supplier B,4645.99,3,South,Mobile App,2024-04-11,,0
+ORD1452,PID2452,Toys,Supplier B,4975.05,1,South,Mobile App,2024-02-19,,0
+ORD1453,PID2453,Toys,Supplier C,952.09,4,South,Offline,2024-01-06,2024-05-01,1
+ORD1454,PID2454,Beauty,Supplier D,2041.59,2,North,Mobile App,2024-03-23,,0
+ORD1455,PID2455,Clothing,Supplier C,3815.37,3,East,Mobile App,2024-02-29,2024-05-01,1
+ORD1456,PID2456,Toys,Supplier C,3510.5,2,West,Online,2024-02-13,2024-05-01,1
+ORD1457,PID2457,Home,Supplier C,854.09,1,West,Offline,2024-04-30,,0
+ORD1458,PID2458,Clothing,Supplier C,4097.58,3,North,Mobile App,2024-01-11,,0
+ORD1459,PID2459,Home,Supplier C,1199.76,1,West,Social Media,2024-03-06,2024-05-01,1
+ORD1460,PID2460,Electronics,Supplier B,1196.71,1,West,Mobile App,2024-02-16,,0
+ORD1461,PID2461,Clothing,Supplier C,2731.17,4,West,Online,2024-04-17,,0
+ORD1462,PID2462,Toys,Supplier C,3005.41,2,West,Social Media,2024-04-17,,0
+ORD1463,PID2463,Clothing,Supplier D,2942.42,3,East,Online,2024-03-13,,0
+ORD1464,PID2464,Clothing,Supplier A,548.29,1,West,Mobile App,2024-03-25,2024-05-01,1
+ORD1465,PID2465,Clothing,Supplier B,4399.56,1,South,Social Media,2024-03-28,2024-05-01,1
+ORD1466,PID2466,Clothing,Supplier B,1401.44,3,North,Offline,2024-04-07,,0
+ORD1467,PID2467,Home,Supplier B,734.62,1,East,Offline,2024-03-26,,0
+ORD1468,PID2468,Electronics,Supplier C,4454.87,4,West,Social Media,2024-01-03,,0
+ORD1469,PID2469,Beauty,Supplier C,4782.69,4,East,Social Media,2024-03-16,2024-05-01,1
+ORD1470,PID2470,Clothing,Supplier C,4324.43,4,West,Online,2024-04-01,,0
+ORD1471,PID2471,Toys,Supplier D,4066.63,4,South,Social Media,2024-01-30,,0
+ORD1472,PID2472,Clothing,Supplier A,3310.69,1,North,Online,2024-03-30,,0
+ORD1473,PID2473,Toys,Supplier C,2799.2,3,West,Mobile App,2024-04-21,,0
+ORD1474,PID2474,Home,Supplier A,526.24,3,West,Online,2024-01-21,2024-05-01,1
+ORD1475,PID2475,Toys,Supplier D,2101.42,3,West,Social Media,2024-01-28,,0
+ORD1476,PID2476,Beauty,Supplier B,1926.17,3,West,Social Media,2024-04-29,,0
+ORD1477,PID2477,Electronics,Supplier C,1372.79,2,North,Mobile App,2024-03-30,,0
+ORD1478,PID2478,Toys,Supplier A,3644.76,3,North,Social Media,2024-03-02,2024-05-01,1
+ORD1479,PID2479,Toys,Supplier A,2529.79,2,South,Social Media,2024-02-02,,0
+ORD1480,PID2480,Electronics,Supplier C,497.13,2,North,Offline,2024-03-25,,0
+ORD1481,PID2481,Beauty,Supplier B,1178.9,4,West,Offline,2024-02-04,,0
+ORD1482,PID2482,Clothing,Supplier B,3447.97,2,South,Mobile App,2024-02-21,2024-05-01,1
+ORD1483,PID2483,Toys,Supplier B,473.04,1,South,Online,2024-02-03,,0
+ORD1484,PID2484,Electronics,Supplier D,4270.91,2,South,Offline,2024-02-10,,0
+ORD1485,PID2485,Home,Supplier A,2526.22,4,West,Online,2024-02-20,,0
+ORD1486,PID2486,Electronics,Supplier A,2454.87,2,East,Social Media,2024-02-16,,0
+ORD1487,PID2487,Home,Supplier A,3002.8,1,West,Offline,2024-03-22,,0
+ORD1488,PID2488,Beauty,Supplier D,4140.94,1,North,Mobile App,2024-02-27,2024-05-01,1
+ORD1489,PID2489,Clothing,Supplier A,1804.27,1,North,Mobile App,2024-03-15,,0
+ORD1490,PID2490,Electronics,Supplier D,3422.28,4,West,Mobile App,2024-02-26,,0
+ORD1491,PID2491,Toys,Supplier B,2872.09,4,West,Offline,2024-01-23,,0
+ORD1492,PID2492,Beauty,Supplier C,1408.44,3,South,Online,2024-02-17,,0
+ORD1493,PID2493,Electronics,Supplier A,4405.29,4,West,Social Media,2024-01-22,,0
+ORD1494,PID2494,Toys,Supplier A,4007.39,1,South,Online,2024-01-17,2024-05-01,1
+ORD1495,PID2495,Electronics,Supplier B,3326.41,1,North,Online,2024-03-09,,0
+ORD1496,PID2496,Home,Supplier C,4267.85,4,South,Social Media,2024-04-17,,0
+ORD1497,PID2497,Electronics,Supplier D,4349.74,2,West,Social Media,2024-01-11,,0
+ORD1498,PID2498,Electronics,Supplier C,3570.98,4,North,Offline,2024-04-03,,0
+ORD1499,PID2499,Electronics,Supplier B,4201.37,4,East,Offline,2024-01-15,,0
